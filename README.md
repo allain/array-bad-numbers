@@ -4,7 +4,7 @@ Filters the given array to remove the matched numbers.
 
 This could also be easily solved with the `filter` Array method, or even with a `for` loop.
 
-Currently it only works on commonjs enviroments (nodejs or using browserify), but the implementation is really simple and can be used in the browser by just copying the code snippet.
+This works on commonJS, requireJS and default environments.
 
 ## Usage
 
