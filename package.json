@@ -1,0 +1,22 @@
+{
+  "name": "array-bad-numbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauriciosoares/array-bad-numbers.git"
+  },
+  "author": "Mauricio Soares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauriciosoares/array-bad-numbers/issues"
+  },
+  "homepage": "https://github.com/mauriciosoares/array-bad-numbers#readme",
+  "devDependencies": {
+    "tape": "^4.0.2"
+  }
+}
