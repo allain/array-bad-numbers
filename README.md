@@ -16,6 +16,13 @@ badNumbers([1, 2, 3], [2]); //[3]
 badNumbers([7, 5, 2, 2, 2, 1, 5, 3], [5, 2, 2]); //[7, 1, 3]
 ```
 
+## Usage
+
+`badNumbers` accepts 2 arguments
+
+* the **first** argument is the array that is going to be filtered.
+* the **second** argument is an array of numbers to filter.
+
 ## Tests
 
 To test run the following commands
