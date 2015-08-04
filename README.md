@@ -9,11 +9,11 @@ Currently it only works on commonjs enviroments (nodejs or using browserify), bu
 ## Usage
 
 ```javascript
-	var badNumbers = require('array-bad-numbers');
+var badNumbers = require('array-bad-numbers');
 
-  badNumbers([1, 2, 3], [2]); //[3]
+badNumbers([1, 2, 3], [2]); //[3]
 
-  badNumbers([7, 5, 2, 2, 2, 1, 5, 3], [5, 2, 2]); //[7, 1, 3]
+badNumbers([7, 5, 2, 2, 2, 1, 5, 3], [5, 2, 2]); //[7, 1, 3]
 ```
 
 ## Tests
@@ -21,6 +21,6 @@ Currently it only works on commonjs enviroments (nodejs or using browserify), bu
 To test run the following commands
 
 ```
-  npm install
-  npm test
+npm install
+npm test
 ```
