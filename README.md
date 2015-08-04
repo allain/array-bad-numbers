@@ -16,7 +16,7 @@ badNumbers([1, 2, 3], [2]); //[3]
 badNumbers([7, 5, 2, 2, 2, 1, 5, 3], [5, 2, 2]); //[7, 1, 3]
 ```
 
-## Usage
+## Docs
 
 `badNumbers` accepts 2 arguments
 
